@@ -1,0 +1,17 @@
+@import './base.css';
+
+#app {
+  margin: 0 auto;
+  padding-left: 5rem;
+  padding-right: 5rem;
+  padding-top: 0.5rem;
+  padding-bottom: 0.5rem;
+  font-weight: normal;
+}
+
+:root {
+  --bs-body-bg: black;
+}
+
+
+
